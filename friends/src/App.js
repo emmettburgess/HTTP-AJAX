@@ -1,14 +1,12 @@
 import React from "react";
+import { Route, NavLink } from "react-router-dom";
+import axios from "axios";
 
 import FriendList from "./components/friendList";
 import AddForm from "./components/addForm";
 import UpdateForm from "./components/updateForm";
 
 import "./App.css";
-
-import axios from "axios";
-
-import { Route, NavLink } from "react-router-dom";
 
 class App extends React.Component {
   constructor() {

@@ -33,7 +33,7 @@ class UpdateForm extends React.Component {
   render() {
     return (
       <form onSubmit={this.handleSubmit} className="add-form">
-        <h1>Update Friend</h1>
+        <h1>Update friend</h1>
 
         <input
           type="text"

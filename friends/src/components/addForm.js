@@ -40,7 +40,7 @@ class AddForm extends React.Component {
   render() {
     return (
       <form onSubmit={this.postFriend} className="add-form">
-        <h1>Add a friend!</h1>
+        <h1>Add a friend</h1>
 
         <input
           type="text"

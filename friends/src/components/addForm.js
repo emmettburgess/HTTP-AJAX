@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './AddForm.css';
+import './addForm.css';
 
 import ErrorMessage from './ErrorMessage';
 import SuccessMessage from './SuccessMessage';

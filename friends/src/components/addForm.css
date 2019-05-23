@@ -8,10 +8,10 @@
     width: 290px;
     height: 50%;
   
-    background: linear-gradient(to bottom, #6c6eb2 0%, #181870 64%, #000028 100%);
+    background: #181870;
     border-radius: 8px;
     border: 1px solid #424542;
-    font-family: 'Press Start 2P', sans-serif;
+    font-family: sans-serif;
     line-height: 50px;
     color: white;
   

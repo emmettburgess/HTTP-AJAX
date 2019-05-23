@@ -2,8 +2,8 @@ import React from 'react';
 
 import './addForm.css';
 
-import ErrorMessage from './ErrorMessage';
-import SuccessMessage from './SuccessMessage';
+import ErrorMessage from './error';
+import SuccessMessage from './success';
 
 class AddForm extends React.Component {
   constructor(props) {

@@ -1,8 +1,8 @@
 import React from "react";
 
-import FriendList from "./FriendList";
-import AddForm from "./AddForm";
-import UpdateForm from "./UpdateForm";
+import FriendList from "./components/friendList";
+import AddForm from "./components/addForm";
+import UpdateForm from "./components/updateForm";
 
 import "./App.css";
 
